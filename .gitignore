@@ -1,0 +1,21 @@
+# Ambiente virtual
+venv/
+env/
+ 
+# Variáveis de ambiente / credenciais
+.env
+ 
+# Cache Python
+__pycache__/
+*.pyc
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# Dados sensíveis (mantém só os fictícios versionados, se quiser)
+# data/raw/*.csv
+# data/processed/*.csv
+ 
+# Sistema
+.DS_Store
+ 

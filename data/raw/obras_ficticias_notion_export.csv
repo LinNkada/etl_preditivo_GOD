@@ -1,0 +1,101 @@
+﻿ID Obra,Nome,Endereço,Cidade,Estado,Latitude,Longitude,Status,Data de Entrada,Data de Saída,Valor do Contrato (R$)
+OB-0001,Obra e Filhos Alameda Sousa,"Fazenda Carvalho, 9",Jundiaí,SP,-23.224567,-46.873645,Ativa,2026-01-23,,34063.56
+OB-0002,Obra S/A Praça de Andrade,Favela da Conceição,Jundiaí,SP,-23.161633,-46.893263,Ativa,2026-07-19,,4736.58
+OB-0003,Obra - EI Alameda de Novais,"Via de Sampaio, 863",Suzano,SP,-23.569234,-46.300598,Ativa,2026-07-04,,30470.2
+OB-0004,Obra - EI Aeroporto Liam Sampaio,"Ladeira Leonardo Cunha, 21",São Bernardo do Campo,SP,-23.702448,-46.570479,Encerrada,2026-02-09,2026-02-25,34990.51
+OB-0005,Obra - ME Morro Ferreira,"Área Maria Clara Nascimento, 7",Guarulhos,SP,-23.434486,-46.549675,Ativa,2025-12-08,,35185.01
+OB-0006,Obra S/A Lago de Pires,"Travessa Matheus Santos, 1",São Paulo,SP,-23.591225,-46.673628,Ativa,2026-03-15,,36995.82
+OB-0007,Obra e Filhos Lago Barros,"Colônia Garcia, 67",Campinas,SP,-22.913958,-47.100117,Ativa,2026-04-01,,15666.9
+OB-0008,Obra S.A. Morro Otto Rios,"Viela de Ramos, 3",Jundiaí,SP,-23.173848,-46.861629,Ativa,2026-07-12,,6386.54
+OB-0009,Obra - EI Feira de Castro,"Ladeira Pedro Lucas Rodrigues, 40",Jundiaí,SP,-23.21291,-46.918861,Encerrada,2025-10-30,2026-06-23,7691.56
+OB-0010,Obra S/A Passarela Vitor Gabriel Azevedo,"Largo de Cunha, 86",Poá,SP,-23.531259,-46.310189,Ativa,2025-12-12,,12194.54
+OB-0011,Obra S.A. Conjunto Thales Souza,"Jardim de Souza, 769",Poá,SP,-23.506418,-46.325245,Ativa,2025-10-26,,10602.25
+OB-0012,Obra Ltda. Conjunto Moraes,"Avenida Camargo, 72",Campinas,SP,-22.935419,-47.066374,Encerrada,2026-02-05,2026-08-02,32058.72
+OB-0013,Obra - EI Parque Garcia,"Rua Theodoro Novaes, 2",Suzano,SP,-23.524039,-46.276515,Ativa,2025-10-18,,4832.16
+OB-0014,Obra e Filhos Ladeira de Vargas,"Condomínio Ana Beatriz Lopes, 17",Itaquaquecetuba,SP,-23.496284,-46.391981,Encerrada,2026-07-07,2026-09-16,30700.7
+OB-0015,Obra e Filhos Jardim de Montenegro,"Rodovia Caldeira, 48",Ferraz de Vasconcelos,SP,-23.502632,-46.355415,Ativa,2025-12-02,,13735.04
+OB-0016,Obra S.A. Esplanada Valentina Vasconcelos,"Trevo Duarte, 20",São Bernardo do Campo,SP,-23.690502,-46.540699,Encerrada,2026-04-27,2026-08-22,18522.85
+OB-0017,Obra Ltda. Feira Danilo da Costa,"Chácara Siqueira, 91",Guarulhos,SP,-23.453347,-46.574609,Encerrada,2025-10-14,2025-12-07,29539.01
+OB-0018,Obra S.A. Viaduto Melo,"Jardim Moura, 963",Jundiaí,SP,-23.193484,-46.941447,Ativa,2026-04-03,,22924.07
+OB-0019,Obra e Filhos Estrada de Silva,"Viaduto Evelyn Macedo, 471",Poá,SP,-23.479492,-46.307522,Encerrada,2025-09-25,2025-11-08,31790.98
+OB-0020,Obra S.A. Loteamento Almeida,"Fazenda de Pastor, 20",São Bernardo do Campo,SP,-23.669312,-46.53854,Ativa,2026-03-13,,21542.76
+OB-0021,Obra e Filhos Avenida de da Conceição,Loteamento Barbosa,Santo André,SP,-23.713575,-46.516091,Encerrada,2026-02-01,2026-08-30,10914.05
+OB-0022,Obra - EI Ladeira Rios,"Setor Cardoso, 497",São Paulo,SP,-23.513448,-46.653456,Ativa,2026-08-13,,11754.81
+OB-0023,Obra - ME Estrada Gabriel Brito,"Morro Lavínia Jesus, 20",Itaquaquecetuba,SP,-23.460149,-46.344662,Encerrada,2026-06-18,2026-09-14,23777.14
+OB-0024,Obra S/A Loteamento Henrique da Cruz,"Setor Machado, 36",São Paulo,SP,-23.50759,-46.595428,Ativa,2026-02-24,,13496.17
+OB-0025,Obra Ltda. Feira Dom Macedo,"Colônia de Aragão, 401",Osasco,SP,-23.487805,-46.833235,Encerrada,2026-05-26,2026-09-11,35282.13
+OB-0026,Obra S.A. Residencial Maria Luísa Cunha,"Avenida Lucas Garcia, 7",Guarulhos,SP,-23.438325,-46.489015,Ativa,2025-12-13,,39705.97
+OB-0027,Obra Ltda. Lago Lavínia Sampaio,"Viaduto de Silva, 42",Ferraz de Vasconcelos,SP,-23.494664,-46.326809,Ativa,2026-09-08,,16436.23
+OB-0028,Obra Ltda. Avenida Pacheco,"Avenida de Souza, 10",Jundiaí,SP,-23.170712,-46.90399,Ativa,2026-06-11,,13788.08
+OB-0029,Obra - EI Rodovia Sofia Castro,Chácara de Cirino,São Paulo,SP,-23.566691,-46.624469,Ativa,2026-01-15,,3798.42
+OB-0030,Obra S/A Campo de Rocha,"Passarela Campos, 139",Campinas,SP,-22.89679,-47.089706,Encerrada,2025-10-06,2025-11-08,24837.48
+OB-0031,Obra - EI Pátio Ribeiro,"Rua de Dias, 63",Poá,SP,-23.509702,-46.372176,Encerrada,2025-11-26,2026-07-24,27198.29
+OB-0032,Obra S.A. Passarela João Rios,"Quadra Ana Vitória Sá, 1",Santo André,SP,-23.6896,-46.541003,Ativa,2026-04-16,,7522.63
+OB-0033,Obra - ME Travessa de Brito,Favela de Montenegro,Ferraz de Vasconcelos,SP,-23.55567,-46.37859,Encerrada,2025-10-17,2026-04-15,7584.34
+OB-0034,Obra Ltda. Morro Azevedo,"Lago Levi Macedo, 949",Ferraz de Vasconcelos,SP,-23.518279,-46.339641,Ativa,2025-11-14,,11393.67
+OB-0035,Obra S/A Sítio de da Rosa,"Conjunto da Luz, 2",Santo André,SP,-23.699882,-46.569951,Ativa,2026-05-14,,41815.52
+OB-0036,Obra e Filhos Distrito de da Mata,"Favela de Silva, 53",Santo André,SP,-23.633098,-46.502703,Ativa,2025-11-09,,44970.22
+OB-0037,Obra - EI Jardim Cauã Borges,"Ladeira Caio Abreu, 52",Mogi das Cruzes,SP,-23.4759,-46.146163,Ativa,2026-01-19,,23654.11
+OB-0038,Obra S.A. Praia de Novaes,"Sítio Antony Camargo, 3",Suzano,SP,-23.506035,-46.270556,Ativa,2025-12-13,,44390.32
+OB-0039,Obra - EI Núcleo Pacheco,"Praça Cardoso, 5",Poá,SP,-23.483948,-46.315087,Ativa,2026-02-13,,43228.68
+OB-0040,Obra Ltda. Morro Costela,"Viaduto Caldeira, 78",São Bernardo do Campo,SP,-23.678213,-46.566733,Ativa,2025-12-26,,43701.44
+OB-0041,Obra - EI Distrito de da Costa,"Estação Jesus, 3",Osasco,SP,-23.508926,-46.835704,Ativa,2026-02-27,,27743.37
+OB-0042,Obra e Filhos Pátio Theo da Mata,"Colônia de Garcia, 8",São Bernardo do Campo,SP,-23.652461,-46.562287,Encerrada,2025-10-19,2025-11-23,38830.72
+OB-0043,Obra S.A. Quadra Ferreira,"Fazenda Alves, 66",São Paulo,SP,-23.540996,-46.615779,Ativa,2026-01-18,,42576.24
+OB-0044,Obra Ltda. Ladeira Ferreira,"Passarela de Rocha, 250",Osasco,SP,-23.557878,-46.782348,Ativa,2026-08-03,,30780.99
+OB-0045,Obra Ltda. Trecho da Luz,Trevo Lopes,Osasco,SP,-23.530222,-46.748329,Encerrada,2026-01-02,2026-04-07,13405.47
+OB-0046,Obra Ltda. Largo de Lopes,"Condomínio de Gomes, 134",Ferraz de Vasconcelos,SP,-23.578012,-46.35515,Ativa,2026-05-12,,34702.38
+OB-0047,Obra e Filhos Aeroporto Raquel Nascimento,"Viaduto de Costa, 26",São Paulo,SP,-23.599568,-46.621184,Encerrada,2026-07-05,2026-08-07,25811.83
+OB-0048,Obra e Filhos Vale Ana Sophia Ribeiro,"Lagoa Montenegro, 66",São Bernardo do Campo,SP,-23.71788,-46.522074,Encerrada,2025-10-25,2026-02-11,15326.98
+OB-0049,Obra - ME Lago de Novaes,"Pátio Rios, 52",Santo André,SP,-23.630526,-46.517946,Encerrada,2026-07-30,2026-09-11,3824.66
+OB-0050,Obra - ME Aeroporto de da Rosa,"Praça Viana, 895",São Bernardo do Campo,SP,-23.714462,-46.549061,Ativa,2025-11-27,,40423.08
+OB-0051,Obra - ME Viela Paulo Moraes,"Esplanada de Ribeiro, 5",Campinas,SP,-22.904578,-47.085365,Ativa,2026-07-26,,17729.53
+OB-0052,Obra - EI Vereda de Pinto,"Feira Rocha, 43",Jundiaí,SP,-23.172276,-46.921402,Ativa,2026-05-28,,41188.6
+OB-0053,Obra S.A. Área da Cruz,"Campo de Marques, 49",Mogi das Cruzes,SP,-23.56357,-46.196442,Ativa,2026-02-08,,17342.6
+OB-0054,Obra e Filhos Parque de Monteiro,"Distrito Rezende, 2",Guarulhos,SP,-23.440589,-46.557504,Ativa,2026-05-04,,21249.01
+OB-0055,Obra - ME Estação Sampaio,"Avenida Theo Campos, 82",Mogi das Cruzes,SP,-23.561613,-46.144295,Encerrada,2026-09-08,2026-09-19,38135.69
+OB-0056,Obra e Filhos Sítio de Peixoto,"Vale Mirella Lima, 872",Osasco,SP,-23.527247,-46.798821,Ativa,2025-10-11,,40807.73
+OB-0057,Obra - ME Feira Yuri Vargas,"Residencial de Pires, 84",Mogi das Cruzes,SP,-23.482908,-46.217792,Encerrada,2026-01-25,2026-05-10,35874.82
+OB-0058,Obra S/A Lago de da Costa,"Largo Valentina Barros, 42",Ferraz de Vasconcelos,SP,-23.493716,-46.344752,Encerrada,2026-01-19,2026-08-26,37147.03
+OB-0059,Obra - ME Distrito de Santos,"Pátio Jesus, 88",Ferraz de Vasconcelos,SP,-23.588621,-46.346044,Encerrada,2026-03-09,2026-07-07,36792.76
+OB-0060,Obra - ME Favela Leão,"Vila de Almeida, 167",Campinas,SP,-22.878825,-47.085919,Ativa,2026-09-14,,39694.92
+OB-0061,Obra Ltda. Parque Larissa Nascimento,"Setor de Pereira, 47",Santo André,SP,-23.691657,-46.506641,Ativa,2026-05-13,,37552.26
+OB-0062,Obra Ltda. Residencial Benjamin Gomes,"Viela de Guerra, 37",Suzano,SP,-23.570208,-46.294797,Ativa,2026-04-12,,39370.65
+OB-0063,Obra - EI Alameda de Gonçalves,"Viaduto de Alves, 7",Poá,SP,-23.541485,-46.342659,Encerrada,2026-09-02,2026-09-14,42478.34
+OB-0064,Obra S.A. Estação Carlos Eduardo da Luz,"Favela Maria Duarte, 56",São Paulo,SP,-23.512796,-46.657178,Encerrada,2026-07-14,2026-09-19,7998.71
+OB-0065,Obra - ME Chácara Maria Isis Almeida,"Avenida de Ferreira, 11",Ferraz de Vasconcelos,SP,-23.556531,-46.341057,Ativa,2026-05-01,,24724.06
+OB-0066,Obra S/A Estrada Almeida,"Feira Cardoso, 41",Ferraz de Vasconcelos,SP,-23.50115,-46.400692,Encerrada,2025-10-12,2025-10-27,25076.69
+OB-0067,Obra - ME Jardim de Vargas,"Trevo Pereira, 3",São Bernardo do Campo,SP,-23.675714,-46.521374,Ativa,2026-08-29,,21398.84
+OB-0068,Obra Ltda. Trecho Alves,"Viela de Garcia, 23",Jundiaí,SP,-23.143623,-46.885484,Encerrada,2026-08-25,2026-09-15,24545.58
+OB-0069,Obra - EI Vereda de da Cruz,Lagoa de Rodrigues,Jundiaí,SP,-23.194861,-46.90756,Ativa,2026-02-18,,11461.36
+OB-0070,Obra - EI Travessa Viana,Setor Liz Ribeiro,Jundiaí,SP,-23.141664,-46.880068,Ativa,2025-12-18,,15989.42
+OB-0071,Obra Ltda. Rodovia Ramos,"Pátio Mendonça, 7",São Bernardo do Campo,SP,-23.661027,-46.585013,Ativa,2026-01-05,,27569.37
+OB-0072,Obra Ltda. Quadra de Santos,"Estação Rebeca Rezende, 99",Jundiaí,SP,-23.203475,-46.903621,Ativa,2026-08-31,,23137.23
+OB-0073,Obra - ME Praça Vitor Gabriel Duarte,"Chácara da Mota, 83",Campinas,SP,-22.942931,-47.10412,Encerrada,2026-06-10,2026-09-14,7375.57
+OB-0074,Obra - EI Viaduto de Garcia,"Residencial Duarte, 47",Suzano,SP,-23.52522,-46.338336,Ativa,2025-12-30,,5417.87
+OB-0075,Obra Ltda. Loteamento Alana Peixoto,"Sítio Antônio Moreira, 41",Santo André,SP,-23.652773,-46.511451,Ativa,2026-05-11,,29635.26
+OB-0076,Obra e Filhos Residencial Rodrigo Sales,"Residencial de Machado, 2",Suzano,SP,-23.520665,-46.322402,Ativa,2026-04-12,,30726.41
+OB-0077,Obra Ltda. Passarela Sales,"Viaduto Emilly Melo, 785",Mogi das Cruzes,SP,-23.483534,-46.152756,Encerrada,2025-11-13,2026-01-23,10799.3
+OB-0078,Obra e Filhos Loteamento de Fogaça,"Ladeira Ana Laura da Cunha, 41",Campinas,SP,-22.908104,-47.107578,Encerrada,2026-01-25,2026-03-12,22443.17
+OB-0079,Obra Ltda. Setor Teixeira,"Estrada Cunha, 94",Santo André,SP,-23.647142,-46.489511,Ativa,2026-07-21,,34842.88
+OB-0080,Obra - EI Colônia Mathias da Rocha,"Estação Ana Julia Albuquerque, 124",Santo André,SP,-23.652635,-46.516373,Ativa,2026-06-05,,41134.47
+OB-0081,Obra S/A Lago de Sampaio,"Residencial de Caldeira, 5",Santo André,SP,-23.624179,-46.513934,Ativa,2026-05-21,,34698.74
+OB-0082,Obra - ME Praia Carolina Cirino,Recanto Ian Azevedo,Jundiaí,SP,-23.207969,-46.870033,Ativa,2026-05-26,,14895.79
+OB-0083,Obra - ME Campo Cauê Cassiano,"Lagoa de Barros, 91",São Paulo,SP,-23.529146,-46.659851,Ativa,2026-03-10,,25916.32
+OB-0084,Obra - ME Trevo de Vieira,"Rua Garcia, 57",Guarulhos,SP,-23.489217,-46.545396,Encerrada,2025-12-07,2026-01-07,20717.02
+OB-0085,Obra - EI Lagoa Dante Pimenta,"Favela Pires, 24",Itaquaquecetuba,SP,-23.482139,-46.357023,Encerrada,2026-01-03,2026-04-27,41050.8
+OB-0086,Obra S.A. Estação Novaes,Aeroporto Jesus,Osasco,SP,-23.487894,-46.839847,Ativa,2026-07-11,,3744.69
+OB-0087,Obra - ME Trevo de Melo,"Fazenda da Paz, 27",Itaquaquecetuba,SP,-23.506539,-46.359601,Ativa,2026-04-22,,33987.31
+OB-0088,Obra e Filhos Jardim Viana,"Trecho de Ribeiro, 26",Osasco,SP,-23.492719,-46.792977,Ativa,2026-02-06,,4704.53
+OB-0089,Obra - EI Via Cassiano,"Campo Araújo, 54",Itaquaquecetuba,SP,-23.469513,-46.318786,Encerrada,2025-12-13,2026-01-29,44199.96
+OB-0090,Obra - ME Quadra Sales,"Passarela de da Mata, 887",São Bernardo do Campo,SP,-23.741703,-46.575998,Encerrada,2026-07-05,2026-08-10,30174.11
+OB-0091,Obra S/A Área de Lopes,"Trevo Theodoro Alves, 4",Guarulhos,SP,-23.417615,-46.565527,Ativa,2026-01-31,,12283.9
+OB-0092,Obra e Filhos Trecho de Almeida,"Ladeira de Oliveira, 3",Itaquaquecetuba,SP,-23.50265,-46.310636,Encerrada,2026-02-09,2026-09-13,13969.27
+OB-0093,Obra - ME Via de Macedo,"Trecho Lopes, 81",São Paulo,SP,-23.553469,-46.608398,Encerrada,2025-10-16,2026-01-28,12805.22
+OB-0094,Obra Ltda. Loteamento Aurora Rios,Loteamento Jesus,São Paulo,SP,-23.522377,-46.618125,Encerrada,2025-10-05,2025-12-10,38328.0
+OB-0095,Obra e Filhos Lago Isadora Teixeira,"Quadra Borges, 64",Osasco,SP,-23.567262,-46.829178,Ativa,2026-08-28,,42831.92
+OB-0096,Obra S/A Rodovia Alexandre Ribeiro,"Quadra de Jesus, 4",Santo André,SP,-23.643954,-46.51161,Ativa,2025-12-14,,43494.99
+OB-0097,Obra - EI Vale Melina Pires,"Favela da Mata, 824",Campinas,SP,-22.948447,-47.03067,Ativa,2026-02-26,,4565.65
+OB-0098,Obra e Filhos Condomínio Benjamin Pires,"Esplanada das Neves, 708",Poá,SP,-23.51902,-46.302797,Ativa,2026-03-31,,33173.11
+OB-0099,Obra S/A Condomínio Martins,Distrito de Monteiro,São Paulo,SP,-23.54129,-46.600243,Ativa,2026-01-22,,35557.96
+OB-0100,Obra e Filhos Rodovia Yago Leão,"Recanto Ryan Marques, 426",Jundiaí,SP,-23.175659,-46.935694,Encerrada,2026-07-06,2026-09-11,21277.69
