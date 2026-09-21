@@ -29,7 +29,7 @@ Notion (fonte simulada)
    Power BI (dashboard + slider what-if)
 ```
 
-## Estrutura do repositório
+## Estrutura 
 
 ```
 etl-preditivo/
