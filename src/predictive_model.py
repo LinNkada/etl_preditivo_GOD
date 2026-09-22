@@ -209,8 +209,9 @@ def plotar_tendencia(serie: pd.DataFrame, baseline: pd.DataFrame, caminho: Path)
 
 
 # ── Gravação no MySQL ─────────────────────────────────────────────────────
-def salvar_no_mysql(baseline: pd.DataFrame, cenarios: pd.DataFrame):
-    """Insere (substituindo) as tabelas previsao_baseline e cenarios_whatif no MySQL."""
+def salvar_no_mysql(serie: pd.DataFrame, baseline: pd.DataFrame, cenarios: pd.DataFrame):
+    """Insere (substituindo) as tabelas receita_mensal_historico, previsao_baseline
+    e cenarios_whatif no MySQL."""
     try:
         from dotenv import load_dotenv
         from sqlalchemy import create_engine, text
@@ -226,13 +227,18 @@ def salvar_no_mysql(baseline: pd.DataFrame, cenarios: pd.DataFrame):
         with engine.begin() as conn:
             conn.execute(text("TRUNCATE TABLE cenarios_whatif"))
             conn.execute(text("TRUNCATE TABLE previsao_baseline"))
+            conn.execute(text("TRUNCATE TABLE receita_mensal_historico"))
+
+        serie_bd = serie.copy()
+        serie_bd["mes"] = pd.to_datetime(serie_bd["mes"]).dt.date
+        serie_bd.to_sql("receita_mensal_historico", con=engine, if_exists="append", index=False)
 
         cenarios.to_sql("cenarios_whatif", con=engine, if_exists="append", index=False)
         baseline_bd = baseline.rename(columns={"mes": "mes"}).copy()
         baseline_bd["mes"] = pd.to_datetime(baseline_bd["mes"]).dt.date
         baseline_bd.to_sql("previsao_baseline", con=engine, if_exists="append", index=False)
 
-        print("Tabelas 'cenarios_whatif' e 'previsao_baseline' gravadas no MySQL.")
+        print("Tabelas 'receita_mensal_historico', 'cenarios_whatif' e 'previsao_baseline' gravadas no MySQL.")
     except Exception as e:
         print(f"[Aviso] Não foi possível gravar no MySQL ({e}). Os CSVs locais ainda foram salvos normalmente.")
 
@@ -259,7 +265,7 @@ if __name__ == "__main__":
     cenarios.to_csv(CAMINHO_SAIDA_CENARIOS, index=False, encoding="utf-8-sig")
 
     plotar_tendencia(serie, baseline, CAMINHO_GRAFICO)
-    salvar_no_mysql(baseline, cenarios)
+    salvar_no_mysql(serie, baseline, cenarios)
 
     print("\n=== Resumo ===")
     print(f"Receita ativa atual: R$ {receita_atual:,.2f}")
